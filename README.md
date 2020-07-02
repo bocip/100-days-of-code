@@ -14,3 +14,15 @@
 - Created a [guessing game](https://codepen.io/ciprianboziean/pen/yLePVLa) in JavaScript.
 
 **Thoughts:** Understanding JavaScript doesn't seem impossible anymore, it will just take patience, time and effort.
+
+### Day 1: July 1, 2020
+
+**Today's Progress:**
+
+- The Odin Project: Web Development 101: JavaScript Basics
+    - Installed Virtual Box with a Virtual Machine running Xubuntu
+    -Familiarized myself with basic Command Line commands
+
+- Created a very basic JS [calculator](https://codepen.io/ciprianboziean/pen/ExPbMqx).
+
+**Thoughts:** I have to practice more the new concepts that I'm learning.
