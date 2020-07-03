@@ -2,18 +2,18 @@
 
 # 100 Days Of Code - Log
 
-### Day 0: June 30, 2020
+### Day 2: July 3, 2020
 
 **Today's Progress:**
 
-- The Odin Project: Web Development 101: JavaScript Basics
-    - Fundamentals Part 1 : Numbers and Variables --- solved the exercises in the lectures
+- The Odin Project: Web Development 101: GIT Basics
+    - Went through all the GIT Commands, created a Remote Repository in GitHub using the terminal,
+    done some changes locally, created a branch and pushed the changes, as well as mergin the branch and deleting it after
+- Watched 1hr of each of these 2 courses on Coursera:
+    - Learning how to learn
+    - Introduction to logic
 
-    - Fundamentals Part 2 : Strings --- solved the exercises in the lectures
-
-- Created a [guessing game](https://codepen.io/ciprianboziean/pen/yLePVLa) in JavaScript.
-
-**Thoughts:** Understanding JavaScript doesn't seem impossible anymore, it will just take patience, time and effort.
+**Thoughts:** I have to practice all the concepts that I'm learning, otherwise I'll forget them easily.
 
 ### Day 1: July 1, 2020
 
@@ -27,15 +27,15 @@
 
 **Thoughts:** I have to practice more the new concepts that I'm learning.
 
-### Day 1: July 3, 2020
+### Day 0: June 30, 2020
 
 **Today's Progress:**
 
-- The Odin Project: Web Development 101: GIT Basics
-    - Went through all the GIT Commands, created a Remote Repository in GitHub using the terminal,
-    done some changes locally, created a branch and pushed the changes, as well as mergin the branch and deleting it after
-- Watched 1hr of each of these 2 courses on Coursera:
-    - Learning how to learn
-    - Introduction to logic
+- The Odin Project: Web Development 101: JavaScript Basics
+    - Fundamentals Part 1 : Numbers and Variables --- solved the exercises in the lectures
 
-**Thoughts:** I have to practice all the concepts that I'm learning, otherwise I'll forget them easily.
+    - Fundamentals Part 2 : Strings --- solved the exercises in the lectures
+
+- Created a [guessing game](https://codepen.io/ciprianboziean/pen/yLePVLa) in JavaScript.
+
+**Thoughts:** Understanding JavaScript doesn't seem impossible anymore, it will just take patience, time and effort.
