@@ -2,6 +2,19 @@
 
 # 100 Days Of Code - Log
 
+### Day 3: July 6, 2020
+
+**Today's Progress:**
+
+- The Odin Project - Web Development 101 : 58% Completed
+    - Finished section: The Front End
+    - Fundamentals Part 1
+- Created a copy of Google's front page with HTML and CSS and published it on [GitHub](https://github.com/bocip/google-homepage)
+
+
+**Thoughts:** I should rather go slow and understand the concepts, instead of flying through the curriculum and not being able to remember anything.
+
+
 ### Day 2: July 3, 2020
 
 **Today's Progress:**
