@@ -2,6 +2,18 @@
 
 # 100 Days Of Code - Log
 
+### Day 4: July 7, 2020
+
+**Today's Progress:**
+
+- The Odin Project - Web Development 101 : 64% Completed
+    - Fundamentals Part 2, Developer Tools 2
+- Learned and practiced with Strings, Conditionals and Functions, solved many small exercises.
+
+
+**Thoughts:** I need to better divide my time on each task, so I can haver a goal to work towards.
+
+
 ### Day 3: July 6, 2020
 
 **Today's Progress:**
