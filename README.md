@@ -2,6 +2,16 @@
 
 # 100 Days Of Code - Log
 
+### Day 5: July 8, 2020
+
+**Today's Progress:**
+
+- The Odin Project - Web Development 101 : 70% Completed
+    - Fundamentals Part 3, Project: Rock Paper Scissors
+- Learned and practiced with Functions, made a small project of Rock Paper Scissors [game](https://codepen.io/ciprianboziean/pen/zYrjrPe)
+
+**Thoughts:** I have to keep pushing, even if sometimes I feel like I can't solve a problem.
+
 ### Day 4: July 7, 2020
 
 **Today's Progress:**
@@ -10,8 +20,7 @@
     - Fundamentals Part 2, Developer Tools 2
 - Learned and practiced with Strings, Conditionals and Functions, solved many small exercises.
 
-
-**Thoughts:** I need to better divide my time on each task, so I can haver a goal to work towards.
+**Thoughts:**
 
 
 ### Day 3: July 6, 2020
@@ -22,7 +31,6 @@
     - Finished section: The Front End
     - Fundamentals Part 1
 - Created a copy of Google's front page with HTML and CSS and published it on [GitHub](https://github.com/bocip/google-homepage)
-
 
 **Thoughts:** I should rather go slow and understand the concepts, instead of flying through the curriculum and not being able to remember anything.
 
