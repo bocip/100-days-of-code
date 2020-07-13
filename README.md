@@ -2,6 +2,16 @@
 
 # 100 Days Of Code - Log
 
+### Day 6: July 13, 2020
+
+**Today's Progress:**
+
+- The Odin Project - Web Development 101 : 70% Completed
+    - Have done exercises with Loops
+    - Learned how to use Test Driven Development
+
+**Thoughts:** Loops will get easier with practice.
+
 ### Day 5: July 8, 2020
 
 **Today's Progress:**
